@@ -1,0 +1,35 @@
+# Audio Files
+
+*.flac
+
+# Image files
+
+*.webp
+*.avif
+
+# Cache files
+
+*.pyc
+
+# Package files
+
+*.rar
+*.7z
+
+# Misc Files
+
+*.cpp
+*.c
+*.h
+*.hpp
+*.java
+*.html
+*.css
+*.cs
+*.ts
+*.js
+*.htm
+*.php
+*.mp4
+*.avi
+*.wmv
